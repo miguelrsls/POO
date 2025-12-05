@@ -1,15 +1,14 @@
 """
-commit_01_12_25
+commit_04_12_25
 
-1) Implementacion de MVC
-2) POO
-3) Interfaces:
-    3.1 menu_principal()
-    3.2 menu_acciones()
-    3.3 insertar_autos()
-    3.4 consultar_autos()
-    3.5 cambiar_autos()
-    3.6 borrar_autos()
+1) Controlador:
+
+    1.1 menu_principal()
+    1.2 menu_acciones()
+    1.3 insertar_autos()
+    1.4 consultar_autos()
+    1.5 cambiar_autos()
+    1.6 borrar_autos()
 """
 
 from tkinter import *
